@@ -1,0 +1,48 @@
+[33mcommit cf1e2a6bbc212d18e62fed482fd2a9abbf555a5c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 87e13bf 12be7be
+Author: Abdiel Miranda <Abdyspxx@gmail.com>
+Date:   Mon Jul 13 18:15:52 2020 -0500
+
+    added style blue
+
+[33mcommit 87e13bf26af5f3ee04805ae3748d40124730e0d5[m
+Author: Abdiel Miranda <Abdyspxx@gmail.com>
+Date:   Mon Jul 13 18:10:39 2020 -0500
+
+    color blue
+
+[33mcommit 12be7be3148a18997c21c04b032251abbad8ddff[m
+Author: Abdyspxx <67138025+Abdyspxx@users.noreply.github.com>
+Date:   Mon Jul 13 18:09:37 2020 -0500
+
+    add exclamation
+
+[33mcommit 1d56d05e46bbb90fad2e46e48bc6c2d9c93768bb[m
+Author: Abdyspxx <67138025+Abdyspxx@users.noreply.github.com>
+Date:   Mon Jul 13 18:00:17 2020 -0500
+
+    added h2
+
+[33mcommit b28d5661eb79b72c9c817ca2f9af2120ccc81198[m
+Author: Abdiel Miranda <Abdyspxx@gmail.com>
+Date:   Mon Jul 13 17:56:07 2020 -0500
+
+    added an ordered list on hello.html
+
+[33mcommit b0bcc0bc8d5d3b79a9cb1fe189c043448acdf212[m
+Author: Abdiel Miranda <Abdyspxx@gmail.com>
+Date:   Mon Jul 13 17:50:02 2020 -0500
+
+    added a heading
+
+[33mcommit 520ba7488c4408719df3674e15a66a8d2c66e6e6[m
+Author: Abdiel Miranda <Abdyspxx@gmail.com>
+Date:   Mon Jul 13 17:45:14 2020 -0500
+
+    add content to hello.html
+
+[33mcommit 7853c7be972b903052aee5bab6ffcc7558643a49[m
+Author: Abdiel Miranda <Abdyspxx@gmail.com>
+Date:   Mon Jul 13 17:33:22 2020 -0500
+
+    creacion de hello.html
